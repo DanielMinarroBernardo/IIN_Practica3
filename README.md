@@ -11,8 +11,8 @@ cat navidad.txt
 
 ---
 
-![El Grinch](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm360629.html&psig=AOvVaw2DcQuolQ_g_XCp9cK8BcCY&ust=1672057419694000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiZ2rXhlPwCFQAAAAAdAAAAABAa)
+![El Grinch](https://pics.filmaffinity.com/how_the_grinch_stole_christmas-511679229-large.jpg)
 
 # Autor
 
-##Daniel Miñarro Bernardo
+## Daniel Miñarro Bernardo
