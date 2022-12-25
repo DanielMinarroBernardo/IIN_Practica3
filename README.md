@@ -4,10 +4,10 @@ Este repositorio tiene los archivos de la practica trabajada en mi maquina local
 
 # Pruebas de Código
 
-mkdir prueba 
-cd prueba
-echo Feliz Navidad > navidad.txt
-cat navidad.txt
+mkdir prueba 		
+cd prueba		
+echo Feliz Navidad > navidad.txt	
+cat navidad.txt		
 
 ---
 
@@ -15,4 +15,4 @@ cat navidad.txt
 
 # Autor
 
-## Daniel Miñarro Bernardo
+Daniel Miñarro Bernardo
